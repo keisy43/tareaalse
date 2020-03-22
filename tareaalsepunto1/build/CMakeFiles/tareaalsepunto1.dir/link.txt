@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tareaalsepunto1.dir/main.cpp.o CMakeFiles/tareaalsepunto1.dir/Geometrica.cpp.o CMakeFiles/tareaalsepunto1.dir/Circulo.cpp.o CMakeFiles/tareaalsepunto1.dir/Cuadrado.cpp.o CMakeFiles/tareaalsepunto1.dir/Triangulo.cpp.o CMakeFiles/tareaalsepunto1.dir/Pentagono.cpp.o  -o tareaalsepunto1 
