@@ -1,0 +1,3 @@
+/home/alseuser/labalsecuarentena/tap2/build/CMakeFiles/rebuild_cache.dir
+/home/alseuser/labalsecuarentena/tap2/build/CMakeFiles/tap2.dir
+/home/alseuser/labalsecuarentena/tap2/build/CMakeFiles/edit_cache.dir

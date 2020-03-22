@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/tap2.dir/main.cpp.o CMakeFiles/tap2.dir/Geometrica.cpp.o CMakeFiles/tap2.dir/Circulo.cpp.o CMakeFiles/tap2.dir/Cuadrado.cpp.o CMakeFiles/tap2.dir/Triangulo.cpp.o CMakeFiles/tap2.dir/Pentagono.cpp.o  -o tap2 
