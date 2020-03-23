@@ -1,0 +1,3 @@
+/home/alseuser/altp3/build/CMakeFiles/rebuild_cache.dir
+/home/alseuser/altp3/build/CMakeFiles/altp3.dir
+/home/alseuser/altp3/build/CMakeFiles/edit_cache.dir
